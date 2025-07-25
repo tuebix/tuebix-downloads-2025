@@ -1,6 +1,6 @@
 # Index
 
-## Folien
+## Folien etc.
 
 - [Automatisierte Netzwerk Performance Messungen mit dem Open Source Toolkit perfSONAR.pdf](Automatisierte Netzwerk Performance Messungen mit dem Open Source Toolkit perfSONAR.pdf)
 - [Bootserver2Go & der X2Go-OpenBox-MicroDesktop.pdf](Bootserver2Go & der X2Go-OpenBox-MicroDesktop.pdf)
@@ -17,6 +17,7 @@
 - [How to do a podcast with Free Software.pdf](How to do a podcast with Free Software.pdf)
 - [Kachel dich glücklich/Foliensatz.pdf](Kachel dich glücklich/Foliensatz.pdf)
 - [Kachel dich glücklich/Handout.pdf](Kachel dich glücklich/Handout.pdf)
+- [Kachel dich glücklich/kommandos.zip](Kachel dich glücklich/kommandos.zip)
 - [Kodi on speed.pdf](Kodi on speed.pdf)
 - [Linux Inlaws - World Domination by Accident.pdf](Linux Inlaws - World Domination by Accident.pdf)
 - [NetBox: Doku fürs Datacenter und Netzwerk.pdf](NetBox: Doku fürs Datacenter und Netzwerk.pdf)
@@ -25,12 +26,18 @@
 - [Read linux networking code without C-ing - Kernel-Code abstrahieren und verstehen!.pdf](Read linux networking code without C-ing - Kernel-Code abstrahieren und verstehen!.pdf)
 - [Von Cthulhu's Merge und Linux's vier Eltern: Ein Blick in die Linux-Kernel-Historie/Slides (animiert).pdf](Von Cthulhu's Merge und Linux's vier Eltern: Ein Blick in die Linux-Kernel-Historie/Slides (animiert).pdf)
 - [Von Cthulhu's Merge und Linux's vier Eltern: Ein Blick in die Linux-Kernel-Historie/Slides (handout).pdf](Von Cthulhu's Merge und Linux's vier Eltern: Ein Blick in die Linux-Kernel-Historie/Slides (handout).pdf)
+- [Wenn's drauf ankommt: Code korrekt beweisen/livecode.thy](Wenn's drauf ankommt: Code korrekt beweisen/livecode.thy)
 - [Wenn's drauf ankommt: Code korrekt beweisen/slides.pdf](Wenn's drauf ankommt: Code korrekt beweisen/slides.pdf)
 - [Wie uns LLMs beim Programmieren helfen/Pdf Export.pdf](Wie uns LLMs beim Programmieren helfen/Pdf Export.pdf)
 - [Wie uns LLMs beim Programmieren helfen/slides.html](Wie uns LLMs beim Programmieren helfen/slides.html)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/MathJax.js](Wie uns LLMs beim Programmieren helfen/slides_files/MathJax.js)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/embed-amd.js](Wie uns LLMs beim Programmieren helfen/slides_files/embed-amd.js)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/how-llms-help-us-with-programming.svg](Wie uns LLMs beim Programmieren helfen/slides_files/how-llms-help-us-with-programming.svg)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/jquery.min.js](Wie uns LLMs beim Programmieren helfen/slides_files/jquery.min.js)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/notes.js](Wie uns LLMs beim Programmieren helfen/slides_files/notes.js)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/require.min.js](Wie uns LLMs beim Programmieren helfen/slides_files/require.min.js)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/reveal.css](Wie uns LLMs beim Programmieren helfen/slides_files/reveal.css)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/reveal.js](Wie uns LLMs beim Programmieren helfen/slides_files/reveal.js)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/simple.css](Wie uns LLMs beim Programmieren helfen/slides_files/simple.css)
+- [Wie uns LLMs beim Programmieren helfen/slides_files/veit-duotone.png](Wie uns LLMs beim Programmieren helfen/slides_files/veit-duotone.png)
 
-## Downloads
-
-- [Kachel dich glücklich/kommandos.zip](Kachel dich glücklich/kommandos.zip)
-
-## Sonstiges
