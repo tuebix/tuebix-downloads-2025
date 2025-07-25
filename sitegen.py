@@ -25,11 +25,9 @@ for fp in repo.iterdir():
     if fn.startswith("."):
         continue
     if fn in [
-        "regen-index.sh",
         "README.md",
         "sitegen.py",
         "public",
-        "index.md",
         "style.css",
     ]:
         continue
